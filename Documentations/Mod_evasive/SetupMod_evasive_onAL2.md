@@ -67,7 +67,7 @@ To set up `mod_evasive` with `httpd` on Amazon Linux 2, follow these steps:
 
 If you encounter a permission error similar to the one shown below, adjust the permissions of the log directory:
 
-![Permission error for Mod_evasive Log](image.png)
+![Permission error for Mod_evasive Log](img/image.png)
 
 1. **Update Ownership and Permissions:**
 
